@@ -4,9 +4,6 @@
 
 [🌈 在线演示 | Live Demo](https://hildam.github.io/CardFlow/)
 
-<div align="center">
-  <iframe src="https://hildam.github.io/CardFlow/" style="width: 100%; max-width: 800px; height: 600px; border: none; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" allowfullscreen></iframe>
-</div>
 
 ## 对标产品的比较
 
